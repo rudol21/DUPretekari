@@ -1,0 +1,11 @@
+Lù\Priezvisko: pastva Meno: rudolf Pohlavie: m Startovne cislo: 1 Cas: 2:1:44
+Lù\Priezvisko: Potocar Meno: Miroslav Pohlavie: m Startovne cislo: 2 Cas: 2:7:54
+Lù\Priezvisko: Capetova Meno: Michaela Pohlavie: z Startovne cislo: 3 Cas: 2:4:56
+Lù\Priezvisko: Cvincek Meno: Tomas Pohlavie: m Startovne cislo: 4 Cas: 2:6:22
+Lù\Priezvisko: Tibor Meno: Lokaj Pohlavie: m Startovne cislo: 5 Cas: 2:29:9
+Lù\Priezvisko: Srna Meno: Juraj Pohlavie: m Startovne cislo: 6 Cas: 2:5:10
+Lù\Priezvisko: Capasova Meno: Daniela Pohlavie: z Startovne cislo: 7 Cas: 2:18:44
+Lù\Priezvisko: Capasova Meno: Barbora Pohlavie: z Startovne cislo: 8 Cas: 2:25:21
+Lù\Priezvisko: Mrkva Meno: Jozef Pohlavie: m Startovne cislo: 9 Cas: 2:23:51
+Lù\Priezvisko: Pokorny Meno: Frantisek Pohlavie: m Startovne cislo: 10 Cas: 2:6:15
+Lù\Priezvisko: Chmurova Meno: Iveta Pohlavie: z Startovne cislo: 11 Cas: 2:1:55
